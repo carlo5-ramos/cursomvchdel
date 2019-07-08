@@ -74,10 +74,5 @@ namespace System_Ventas.Controllers
             
         }
 
-        private async Task Tareas()
-        {
-            Thread.Sleep(20 * 1000);
-            String tarea = "Tarea finalizada...";
-        }
     }
 }
